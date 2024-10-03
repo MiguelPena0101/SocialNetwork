@@ -24,15 +24,15 @@ A video walkthrough demonstrating the API's functionality is available here: [Vi
 ``` npm install
 ```
 
-5. Seed the database with initial data (optional):
+4. Seed the database with initial data (optional):
 ```node seedUsers.js
 ```
 
-6. Start the server:
+5. Start the server:
 ```npm start
 ```
 
-7. Use **Insomnia** or **Postman** to test the API at:
+6. Use **Insomnia** or **Postman** to test the API at:
 http://localhost:3001
 
 
